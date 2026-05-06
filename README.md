@@ -15,7 +15,7 @@ A lightweight, zero-configuration CLI tool designed to streamline C++/ROS develo
 You can install this tool directly from your Git repository using `pip`:
 
 ```bash
-pip install git+https://github.com/HGGshiwo/clangd-env.git
+pip install git+https://github.com/HGGshiwo/clangd_env.git
 ```
 
 *Note: You might need to add `~/.local/bin` to your system `PATH` if the `clangd-env` command is not found.*
